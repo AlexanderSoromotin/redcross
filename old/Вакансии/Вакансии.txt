@@ -1,0 +1,19 @@
+<!-- wp:paragraph -->
+<p>Пермский Красный Крест начинает набор <strong>сиделок</strong> в г. Перми и Пермском крае с последующим обучением. Работа по договору.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>По всем вопросам обращаться:<br><a href="tel:+79922031094">+7 (982) 463-17-57</a><br><a href="tel:+79922031094"> 212-84-16</a><br>redcrossperm@mail.ru<br>пн — пт с 10:00 до 16:00</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"></div>
+<!-- /wp:buttons -->
+
+<!-- wp:social-links -->
+<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://vk.com/redcrossperm","service":"vk"} /-->
+
+<!-- wp:social-link {"url":"https://www.facebook.com/redcross59.ru/","service":"facebook"} /--></ul>
+<!-- /wp:social-links -->
+
+<!-- wp:latest-posts /-->

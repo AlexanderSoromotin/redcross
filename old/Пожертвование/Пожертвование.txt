@@ -1,0 +1,65 @@
+<!-- wp:paragraph -->
+<p><strong>Ваша поддержка Российскому Красному Кресту - это не просто денежное пожертвование, это реальный акт гуманизма.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Каждый день добровольцы и сотрудники Пермского отделения Российского Красного Креста оказывают помощь людям: оказавшимся в чрезвычайных ситуациях, малоимущим семьям, одиноким пенсионерам и инвалидам, социально незащищённым категориям населения. Кроме того мы проводим обучения оказания первой помощи.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ваша поддержка позволит нам продолжать работу в условиях современной действительности.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Сделайте пожертвование сейчас!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Помогая другим - помогаешь себе!<br><br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<h5 style="text-align:center; background-color: red; padding:5px 10px; width:100%;color:#fff;font-weight:600;margin-bottom:25px;" class="hidden">Онлайн пожертвование</h5>
+<!-- /wp:html -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":749,"sizeSlug":"large","className":"hidden"} -->
+<figure class="wp-block-image size-large hidden"><img src="https://redcross59.ru/wp-content/uploads/2020/07/Красный-крест-QR-1024x1024.png" alt="" class="wp-image-749"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"hidden"} -->
+<p class="hidden"><br><br>Отсканируйте QR-код с помощью приложения Сбербанк Онлайн на своём смартфоне и отправьте благотворительное пожертвование.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"hidden"} -->
+<p class="hidden">Важно! Не забудьте указать "Благотворительный платёж".</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:html -->
+<h5 style="text-align:center; background-color: red; padding:5px 10px; width:100%;color:#fff;font-weight:600;margin-top:20px;">Вы можете перевести деньги на наш счёт в Сбербанке России</h5>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p><strong>Пермское региональное отделение общероссийской общественной организации «Российский Красный Крест»</strong><br>Сокращённое наименование: ПРОООО «РКК»<br><br>ИНН: 5902700666<br>КПП: 590201001<br>ОГРН: 1025900002040<br><br>Расчётный счёт № 40703810949090110009<br>Наименование банка: Волго-Вятский банк ПАО Сбербанк<br>Кор.счет: 30101810900000000603<br>БИК: 042202603</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Важно! В графе "Назначение платежа" необходимо указать "Благотворительное пожертвование"</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div class="wp-block-button is-style-squared"><a class="wp-block-button__link has-text-color has-white-color has-background has-accent-background-color" download="" href="/wp-content/uploads/2019/02/Квитанция_Сбербанк.doc" target="_blank" rel="noopener noreferrer">Скачать квитанцию с реквизитами</a></div>
+<!-- /wp:html -->
+
+<!-- wp:image {"id":795,"width":290,"height":289,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://redcross59.ru/wp-content/uploads/2020/12/Снимок-экрана-от-2020-12-19-15-38-26.png" alt="" class="wp-image-795" width="290" height="289"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

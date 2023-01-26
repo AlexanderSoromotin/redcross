@@ -1,0 +1,53 @@
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="has-text-align-center">Школа Первой помощи</h3>
+<!-- /wp:heading -->
+
+<!-- wp:media-text {"mediaId":189,"mediaType":"image"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://redcross59.ru/wp-content/uploads/2018/12/P1010074-1-1024x768.jpg" alt="" class="wp-image-189 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Содержимое...","style":{"typography":{"fontSize":15}}} -->
+<p style="font-size:15px">Обучение первой помощи подготовит каждого к спасению жизни.<br>90% жизней после чрезвычайного происшествия спасают люди, оказавшиеся рядом.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":15}}} -->
+<p style="font-size:15px"><strong>Программа «Первая помощь»</strong>&nbsp;– единая международная программа, действующая на 6-ти континентах, в 189 странах мира.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"accent"} -->
+<p class="has-accent-color has-text-color"><a href="/shkola-pervoy-pomosi/">Читать далее...</a></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:html -->
+<br><br><br>
+<h3 style="text-align:center">Если в дом пришла беда</h3>
+<!-- /wp:html -->
+
+<!-- wp:media-text {"mediaPosition":"right","mediaId":190,"mediaType":"image"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Содержимое...","style":{"typography":{"fontSize":15}}} -->
+<p style="font-size:15px">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Методическое пособие
+«Если в дом пришла беда…» издано Пермским областным&nbsp; региональным&nbsp;
+отделением Общероссийской общественной организации «Российский Красный Крест» в
+рамках реализации социального проекта «Если в дом пришла беда» – победителя XIII
+городского конкурса социально значимых проектов «Город – это мы».
+
+
+
+</p>
+<!-- /wp:paragraph --></div><figure class="wp-block-media-text__media"><img src="http://redcross59.ru/wp-content/uploads/2018/12/2017-04-23_12-49-55-1.png" alt="" class="wp-image-190 size-full"/></figure></div>
+<!-- /wp:media-text -->

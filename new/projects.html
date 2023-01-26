@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="custom-container">
+        <div class="projects-page">
+            <div class="page-title">Документы</div>
+            <div class="projects">
+
+                <div class="project">
+                    <div class="project-image">
+                        <img src="https://redcross59.ru/wp-content/uploads/2018/12/P1010074-1-1024x768.jpg" alt="">
+                    </div>
+                    <div class="project-info">
+                        <div class="text">
+                            <div class="project-title">Школа Первой помощи</div>
+                            <div class="project-description">
+                                Обучение первой помощи подготовит каждого к спасению жизни.
+                                <br>
+                                90% жизней после чрезвычайного происшествия спасают люди, оказавшиеся рядом.
+                                <br>
+                                Программа «Первая помощь» – единая международная программа, действующая на 6-ти континентах, в 189 странах мира.
+                            </div>
+                        </div>
+                        <a href="https://redcross59.ru/shkola-pervoy-pomosi/"><div class="read-more">Читать далее...</div></a>
+                    </div>
+                </div>
+
+                <div class="project">
+                    <div class="project-image">
+                        <img src="https://redcross59.ru/wp-content/uploads/2018/12/2017-04-23_12-49-55-1.png" alt="">
+                    </div>
+                    <div class="project-info">
+                        <div class="text">
+                            <div class="project-title">Если в дом пришла беда</div>
+                            <div class="project-description">
+                                Методическое пособие «Если в дом пришла беда…» издано Пермским областным региональным отделением Общероссийской общественной организации «Российский Красный Крест» в рамках реализации социального проекта «Если в дом пришла беда» – победителя XIII городского конкурса социально значимых проектов «Город – это мы».
+                            </div>
+                        </div>
+                        <a href="https://redcross59.ru/esli-v-dom-prishla-beda/"><div class="read-more">Читать далее...</div></a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    
+</body>
+
+
+<style>
+
+.custom-container .projects-page {
+    max-width: 1300px;
+    flex: 1;
+}
+.custom-container .projects-page * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.projects-page .projects {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 60px;
+}
+.projects-page .projects .project .project-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.projects-page .projects .project {
+    position: relative;
+    border: 1px solid #7676761A;
+    max-width: 1330px;
+    min-height: 300px;
+    display: flex;
+    border-radius: 20px;
+    padding: 25px;
+    margin-bottom: 45px;
+}
+.projects-page .projects .project .project-image {
+    position: relative;
+    display: flex;
+    width: 410px;
+    height: 260px;
+    overflow: hidden;
+    border-radius: 8px;
+    margin-right: 35px;
+}
+.projects-page .projects .project .project-image img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.projects-page .projects .project .text {
+    display: flex;
+    flex-direction: column;
+    max-width: 917px;
+}
+.projects-page .projects .project .project-title {
+    color: #000 !important;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25.88px;
+    margin-bottom: 17px;
+}
+.projects-page .projects .project .project-description {
+    color: #000 !important;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28.47px;
+    margin-bottom: 17px;
+    /* flex: 1; */
+}
+.projects-page .projects .project .read-more {
+    transition: .15s;
+    width: 100%;
+    height: 40px;
+    background-color: #E1081A;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 21px;
+    color: #fff;
+}
+.projects-page .projects .project .read-more:hover {
+    opacity: .8;
+}
+.projects-page .projects .project a {
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+    font-family: sans-serif;
+}
+.custom-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+</style>
+</html>

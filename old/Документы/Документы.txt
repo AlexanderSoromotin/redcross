@@ -1,0 +1,47 @@
+<!-- wp:columns {"className":"has-3-columns"} -->
+<div class="wp-block-columns has-3-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:file {"id":1084,"href":"https://redcross59.ru/wp-content/uploads/2021/10/zayavlenie_v_terr_upr_minsocrazvitiya-1-1.docx"} -->
+<div class="wp-block-file"><a href="https://redcross59.ru/wp-content/uploads/2021/10/zayavlenie_v_terr_upr_minsocrazvitiya-1-1.docx">Заявление на надомное обслуживание</a><a href="https://redcross59.ru/wp-content/uploads/2021/10/zayavlenie_v_terr_upr_minsocrazvitiya-1-1.docx" class="wp-block-file__button wp-element-button" download>Скачать</a></div>
+<!-- /wp:file -->
+
+<!-- wp:file {"id":1086,"href":"https://redcross59.ru/wp-content/uploads/2021/10/О-порядке-и-условиях-предоставления-соц.услуг-1-1.doc"} -->
+<div class="wp-block-file"><a href="https://redcross59.ru/wp-content/uploads/2021/10/О-порядке-и-условиях-предоставления-соц.услуг-1-1.doc">О порядке и условиях предоставления соц.услуг</a><a href="https://redcross59.ru/wp-content/uploads/2021/10/О-порядке-и-условиях-предоставления-соц.услуг-1-1.doc" class="wp-block-file__button wp-element-button" download>Скачать</a></div>
+<!-- /wp:file -->
+
+<!-- wp:file {"id":1088,"href":"https://redcross59.ru/wp-content/uploads/2021/10/Форма-Договора-в-соответствии-с-приказом-Минтруда-874н-1-1.doc"} -->
+<div class="wp-block-file"><a href="https://redcross59.ru/wp-content/uploads/2021/10/Форма-Договора-в-соответствии-с-приказом-Минтруда-874н-1-1.doc">Форма Договора в соответствии с приказом Минтруда 874н</a><a href="https://redcross59.ru/wp-content/uploads/2021/10/Форма-Договора-в-соответствии-с-приказом-Минтруда-874н-1-1.doc" class="wp-block-file__button wp-element-button" download>Скачать</a></div>
+<!-- /wp:file -->
+
+<!-- wp:file {"id":1119,"href":"https://redcross59.ru/wp-content/uploads/2021/10/О-тарифах-на-соц.услуги-по-видам-и-формам-соц.обслуживания.pdf","displayPreview":false} -->
+<div class="wp-block-file"><a href="https://redcross59.ru/wp-content/uploads/2021/10/О-тарифах-на-соц.услуги-по-видам-и-формам-соц.обслуживания.pdf">О тарифах на соц.услуги по видам и формам соц.обслуживания</a><a href="https://redcross59.ru/wp-content/uploads/2021/10/О-тарифах-на-соц.услуги-по-видам-и-формам-соц.обслуживания.pdf" class="wp-block-file__button wp-element-button" download>Скачать</a></div>
+<!-- /wp:file -->
+
+<!-- wp:file {"id":1120,"href":"https://redcross59.ru/wp-content/uploads/2021/10/О-численности-получателей-соц.услуг.docx"} -->
+<div class="wp-block-file"><a href="https://redcross59.ru/wp-content/uploads/2021/10/О-численности-получателей-соц.услуг.docx">О численности получателей соц.услуг</a><a href="https://redcross59.ru/wp-content/uploads/2021/10/О-численности-получателей-соц.услуг.docx" class="wp-block-file__button wp-element-button" download>Скачать</a></div>
+<!-- /wp:file -->
+
+<!-- wp:file {"id":1121,"href":"https://redcross59.ru/wp-content/uploads/2021/10/Правила-внутреннего-трудового-распорядка.pdf","displayPreview":false} -->
+<div class="wp-block-file"><a href="https://redcross59.ru/wp-content/uploads/2021/10/Правила-внутреннего-трудового-распорядка.pdf">Правила внутреннего трудового распорядка</a><a href="https://redcross59.ru/wp-content/uploads/2021/10/Правила-внутреннего-трудового-распорядка.pdf" class="wp-block-file__button wp-element-button" download>Скачать</a></div>
+<!-- /wp:file -->
+
+<!-- wp:file {"id":1122,"href":"https://redcross59.ru/wp-content/uploads/2021/10/Правила-поведения-получателя-при-оказании-социальных-услуг-сиделки.pdf","displayPreview":false} -->
+<div class="wp-block-file"><a href="https://redcross59.ru/wp-content/uploads/2021/10/Правила-поведения-получателя-при-оказании-социальных-услуг-сиделки.pdf">Правила поведения получателя при оказании социальных услуг сиделки</a><a href="https://redcross59.ru/wp-content/uploads/2021/10/Правила-поведения-получателя-при-оказании-социальных-услуг-сиделки.pdf" class="wp-block-file__button wp-element-button" download>Скачать</a></div>
+<!-- /wp:file -->
+
+<!-- wp:file {"id":1123,"href":"https://redcross59.ru/wp-content/uploads/2021/10/ПРООООРКК_Публичный-Отчет-2019-1.pdf","displayPreview":false} -->
+<div class="wp-block-file"><a href="https://redcross59.ru/wp-content/uploads/2021/10/ПРООООРКК_Публичный-Отчет-2019-1.pdf">ПРООООРКК_Публичный Отчет 2019</a><a href="https://redcross59.ru/wp-content/uploads/2021/10/ПРООООРКК_Публичный-Отчет-2019-1.pdf" class="wp-block-file__button wp-element-button" download>Скачать</a></div>
+<!-- /wp:file -->
+
+<!-- wp:file {"id":1124,"href":"https://redcross59.ru/wp-content/uploads/2021/10/Публичный-отчет-Диабет-2.docx"} -->
+<div class="wp-block-file"><a href="https://redcross59.ru/wp-content/uploads/2021/10/Публичный-отчет-Диабет-2.docx">Публичный отчет Диабет</a><a href="https://redcross59.ru/wp-content/uploads/2021/10/Публичный-отчет-Диабет-2.docx" class="wp-block-file__button wp-element-button" download>Скачать</a></div>
+<!-- /wp:file --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:file {"id":1240,"href":"https://redcross59.ru/wp-content/uploads/2022/02/Публичный-отчет-2020-1.pdf","displayPreview":true,"previewHeight":520} -->
+<div class="wp-block-file"><object class="wp-block-file__embed" data="https://redcross59.ru/wp-content/uploads/2022/02/Публичный-отчет-2020-1.pdf" type="application/pdf" style="width:100%;height:520px" aria-label="Публичный-отчет-2020-1"></object><a href="https://redcross59.ru/wp-content/uploads/2022/02/Публичный-отчет-2020-1.pdf">Публичный-отчет-2020-1</a><a href="https://redcross59.ru/wp-content/uploads/2022/02/Публичный-отчет-2020-1.pdf" class="wp-block-file__button wp-element-button" download>Скачать</a></div>
+<!-- /wp:file -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
