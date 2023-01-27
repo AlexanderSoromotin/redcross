@@ -7,7 +7,7 @@
     <title>Header</title>
 </head>
 <body>
-    <header class="mobile">
+    <header class="">
         <div class="content">
             <div class="hamburger-menu">
                 <div class="button">
@@ -19,6 +19,12 @@
                             <a href="<?= get_site_url() ?>/news">Новости</a>
                         </li>
                         <li class="">
+                            <a href="<?= get_site_url() ?>/projects">Наши проекты</a>
+                        </li>
+                        <li class="">
+                            <a href="<?= get_site_url() ?>/contacts">Наши контакты</a>
+                        </li>
+                        <li class="">
                             <a href="<?= get_site_url() ?>/history">История</a>
                         </li>
                         <li class="">
@@ -26,6 +32,9 @@
                         </li>
                         <li class="">
                             <a href="<?= get_site_url() ?>/activity">Деятельность</a>
+                        </li>
+                        <li class="">
+                            <a href="<?= get_site_url() ?>/вакансии">Вакансии</a>
                         </li>
                     </ul>
                 </div>
@@ -37,10 +46,6 @@
             </a>
             <div class="header-navbar">
                 <ul>
-                    <li class="header-navbar-element">
-                        <a class="primary-link" href="<?= get_site_url() ?>/news">Новости</a>
-                    </li>
-
                     <li class="header-navbar-element">
                         <a class="primary-link" href="#">О нас</a>
                         <div class="context">
@@ -75,6 +80,10 @@
                                 </li></a>
                             </ul>
                         </div>
+                    </li>
+
+                    <li class="header-navbar-element">
+                        <a class="primary-link" href="<?= get_site_url() ?>/news">Новости</a>
                     </li>
 
                     <li class="header-navbar-element">
@@ -135,6 +144,7 @@ header .content * {
     box-sizing: border-box;
 }
 header .content {
+    position: relative;
     display: flex;
     align-items: center;
     width: 1440px;
@@ -263,7 +273,10 @@ header .content .media a {
 }
 
 
-header.mobile .header-navbar ul {
+
+
+
+header .header-navbar ul {
     display: none;
 }
 header .hamburger-menu {
@@ -273,36 +286,87 @@ header .hamburger-menu {
     left: 0;
 }
 header .hamburger-menu .button {
-    margin-right: 30px;
+    transition: .3s;
+    /* margin-right: 30px; */
+    position: absolute;
     cursor: pointer;
+    height: 90px;
+    /* border: 1px solid; */
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* z-index: 40; */
+    top: 0;
+    left: 0;
 }
-header.mobile .hamburger-menu {
-    display: inline;
+header .hamburger-menu .button img {
+    position: relative;
 }
-header.mobile .logo {
-    margin-left: 40px;
+header .hamburger-menu {
+    display: none;
 }
 
-header.mobile .mobile-header-navbar {
+
+header .menu {
+    transition: .2s;
+    display: none;
+    position: absolute;
+    background-color: rgba(255, 255, 255, .9);
+    top: -10px;
+    left: -320px;
     display: flex;
     flex-direction: column;
+    width: 300px;
+    /* z-index: 30; */
+    height: 100vh;
+    border-right: 1px solid #ccc;
+    backdrop-filter: blur(4px);
+    /* border: 1px solid !important; */
+}
+header .mobile-header-navbar {
+    position: relative;
+    top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+header .hamburger-menu.active .menu {
+    left: 0;
 }
 header .mobile-header-navbar a {
     width: 100%;
     margin: 12px 0;
     padding: 0;
+    text-decoration: none;
+    color: #9B9B9B;
 }
 header .mobile-header-navbar li {
+    transition: .15s;
     display: flex;
-    font-size: 14px;
-    color: #0D0C22;
+    font-size: 16px;
+    font-weight: 700;
     align-items: center;
     width: 100%;
     padding: 0;
-   
+}
+header .mobile-header-navbar a:hover {
+    color: #212121;
+}
+header .hamburger-menu:hover .button img {
+    left: -200px;
+}
+header .hamburger-menu:hover .menu {
+    left: -10px;
 }
 
 
+
+header .hamburger-menu {
+    /* display: flex !important; */
+}
+header .logo {
+    /* margin-left: 40px; */
+}
 
 </style>
     
