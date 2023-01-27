@@ -7,8 +7,29 @@
     <title>Header</title>
 </head>
 <body>
-    <header>
+    <header class="mobile">
         <div class="content">
+            <div class="hamburger-menu">
+                <div class="button">
+                    <img src="https://redcross59.ru/wp-content/uploads/2023/01/menu.svg" height="40px" alt="">
+                </div>
+                <div class="menu">
+                    <ul class="mobile-header-navbar">
+                        <li class="">
+                            <a href="<?= get_site_url() ?>/news">Новости</a>
+                        </li>
+                        <li class="">
+                            <a href="<?= get_site_url() ?>/history">История</a>
+                        </li>
+                        <li class="">
+                            <a href="<?= get_site_url() ?>/documents">Документы</a>
+                        </li>
+                        <li class="">
+                            <a href="<?= get_site_url() ?>/activity">Деятельность</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
             <a href="<?= get_site_url() ?>">
                 <div class="logo">
                     <img src="https://redcross59.ru/wp-content/uploads/2023/01/cropped-recross_155_years.png" alt="Красный крест. 155 лет!">
@@ -239,6 +260,46 @@ header .content .media a {
     align-items: center;
     text-decoration: none;
     margin-left: 25px;
+}
+
+
+header.mobile .header-navbar ul {
+    display: none;
+}
+header .hamburger-menu {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+header .hamburger-menu .button {
+    margin-right: 30px;
+    cursor: pointer;
+}
+header.mobile .hamburger-menu {
+    display: inline;
+}
+header.mobile .logo {
+    margin-left: 40px;
+}
+
+header.mobile .mobile-header-navbar {
+    display: flex;
+    flex-direction: column;
+}
+header .mobile-header-navbar a {
+    width: 100%;
+    margin: 12px 0;
+    padding: 0;
+}
+header .mobile-header-navbar li {
+    display: flex;
+    font-size: 14px;
+    color: #0D0C22;
+    align-items: center;
+    width: 100%;
+    padding: 0;
+   
 }
 
 

@@ -1,0 +1,62 @@
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="has-text-align-center">Наши события</h2>
+<!-- /wp:heading -->
+
+<p></p>
+<p>[smartslider3 slider=4]</p>
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="has-text-align-center">Партнеры</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group -->
+<div class="wp-block-group"></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:image {"id":1097,"width":149,"height":83,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://redcross59.ru/wp-content/uploads/2021/10/maxresdefault-1024x576.jpg" alt="" class="wp-image-1097" width="149" height="83"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"textColor":"black"} -->
+<p class="has-black-color has-text-color"><a href="https://www.gosuslugi.ru">https://www.gosuslugi.ru</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:image {"id":1108,"width":168,"height":84,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="https://redcross59.ru/wp-content/uploads/2021/10/partner-04-1.png" alt="" class="wp-image-1108" width="168" height="84"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"textColor":"black"} -->
+<p class="has-black-color has-text-color"><a href="http://minsoc.permkrai.ru">http://minsoc.permkrai.ru</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:image {"align":"center","id":1101,"width":200,"height":83,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://redcross59.ru/wp-content/uploads/2021/10/39file-1.jpg" alt="" class="wp-image-1101" width="200" height="83"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"textColor":"black"} -->
+<p class="has-black-color has-text-color"><a href="https://rosmintrud.ru/">https://rosmintrud.ru</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:image {"id":1109,"width":168,"height":84,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="https://redcross59.ru/wp-content/uploads/2021/10/partner-04-2.png" alt="" class="wp-image-1109" width="168" height="84"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"textColor":"black"} -->
+<p class="has-black-color has-text-color"><a href="http://www.perm.ru">http://www.perm.ru</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
